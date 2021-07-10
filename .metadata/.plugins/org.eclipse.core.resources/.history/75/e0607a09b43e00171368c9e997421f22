@@ -1,0 +1,30 @@
+package com.example.spindemo;
+
+import android.os.Bundle;
+import android.app.Activity;
+import android.view.Menu;
+import android.widget.Adapter;
+import android.widget.AdapterView.OnItemSelectedListener;
+import android.widget.Spinner;
+
+public class SpinnerDemo extends Activity implements OnItemSelectedListener{
+	String[] college = { "KKW", "MET", "NDMVP", "MIT", "SIT",  };
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_spinner_demo);
+        
+      Spinner s1=(Spinner)findViewById(R.layout.activity_spinner_demo);
+    		  s1.setOnItemSelectedListener(this);
+    		  
+    }
+
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.spinner_demo, menu);
+        return true;
+    }
+    
+}

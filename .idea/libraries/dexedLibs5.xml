@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dexedLibs5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/simplecallertalker/bin/dexedLibs/android-support-v4-71449e312072420bc0d48501e7d3f9dd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/simplecallertalker/bin/dexedLibs/android-support-v4-e7bab19de5b0ba75e03f41b3634eb721.jar!/" />
+      <root url="jar://$PROJECT_DIR$/simplecallertalker/bin/dexedLibs/android-support-v4-d2769ff91ce06e8004d87edb47143c06.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

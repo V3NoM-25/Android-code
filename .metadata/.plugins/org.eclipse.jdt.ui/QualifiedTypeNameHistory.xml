@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.renderscript.Sampler.Value"/>
+<fullyQualifiedTypeName name="java.lang.Float"/>
+<fullyQualifiedTypeName name="com.example.myfirstapp.R.color"/>
+<fullyQualifiedTypeName name="com.example.myfirstapp.R.id"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="com.example.myfirstapp.TextchangeActivity"/>
+<fullyQualifiedTypeName name="com.example.myfirstapp.ChangeTextColorActivity"/>
+<fullyQualifiedTypeName name="com.example.myfirstapp.MainActivity"/>
+<fullyQualifiedTypeName name="com.example.colorchange.R.id"/>
+<fullyQualifiedTypeName name="android.view.Window"/>
+<fullyQualifiedTypeName name="android.R.integer"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="android.R.color"/>
+<fullyQualifiedTypeName name="com.example.hello.R.id"/>
+<fullyQualifiedTypeName name="com.example.tpc.R.id"/>
+<fullyQualifiedTypeName name="com.example.addno.R.id"/>
+<fullyQualifiedTypeName name="com.example.toggleb.R.id"/>
+<fullyQualifiedTypeName name="android.widget.ToggleButton"/>
+<fullyQualifiedTypeName name="com.example.checkb.R.id"/>
+<fullyQualifiedTypeName name="android.widget.EditText"/>
+<fullyQualifiedTypeName name="com.example.sumofno.R.id"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="com.example.assignadd.R.id"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="android.widget.CheckBox"/>
+<fullyQualifiedTypeName name="android.widget.TimePicker"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="com.example.ggssp.R.id"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="android.widget.Adapter"/>
+<fullyQualifiedTypeName name="android.widget.Spinner"/>
+<fullyQualifiedTypeName name="com.example.spindemo.R.layout"/>
+<fullyQualifiedTypeName name="android.view.ViewTreeObserver.OnScrollChangedListener"/>
+<fullyQualifiedTypeName name="android.widget.SeekBar.OnSeekBarChangeListener"/>
+<fullyQualifiedTypeName name="android.R.string"/>
+<fullyQualifiedTypeName name="android.widget.ArrayAdapter"/>
+<fullyQualifiedTypeName name="android.R.layout"/>
+<fullyQualifiedTypeName name="android.widget.RatingBar"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="com.example.myfirstapp.ImageGallActivity"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="com.javatpoint.seekbar.R.id"/>
+</qualifiedTypeNameHistroy>

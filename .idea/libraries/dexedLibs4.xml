@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dexedLibs4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datepicker2/bin/dexedLibs/android-support-v4-c9237b7056c43eb54a07c9c6c3d8768e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datepicker2/bin/dexedLibs/annotations-23306d58b89c9a8e6e1479880a70ed77.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datepicker2/bin/dexedLibs/android-support-v4-8e1703d0fbe9cd826e0e9abacd85cd94.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datepicker2/bin/dexedLibs/android-support-v4-2fdcae8c62d1ab2cfe3b2b570de6e25a.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

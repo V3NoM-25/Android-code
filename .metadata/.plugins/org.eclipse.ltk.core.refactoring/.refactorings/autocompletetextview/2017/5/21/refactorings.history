@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extracts string &apos;Your Favourite Actor&apos; into R.string.your_favourite_actor" description="Extracts string &apos;Your Favourite Actor&apos; into R.string.your_favourite_actor" file="/autocompletetextview/res/layout/activity_main.xml" flags="6" id="com.android.ide.eclipse.adt.refactoring.extract.string" mode="EDIT_SOURCE" proj="/autocompletetextview" rplc-all-java="false" rplc-all-xml="false" sel-end="1025" sel-start="991" stamp="1495472759865" tok-esc="Your Favourite Actor" xml-attr-name="android:text"/>
+</session>
